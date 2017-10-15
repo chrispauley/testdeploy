@@ -1,4 +1,7 @@
 # See https://help.github.com/ignore-files/ for more about ignoring files.
+# Sensitive Files that should not go into the repo
+src/schemas
+production.env
 
 # dependencies
 /node_modules
